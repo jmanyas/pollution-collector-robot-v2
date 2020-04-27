@@ -1,10 +1,10 @@
-package com.seat.robot.pollution.collector.robotv2;
+package com.seat.robot.pollution.collector.robot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PollutionCollectorRobotV2ApplicationTests {
+class PollutionCollectorRobotApplicationTests {
 
     @Test
     void contextLoads() {
